@@ -1,0 +1,16 @@
+D:\Workspace\Proge Software\Vue Testbed\Spa\bin\Debug\netcoreapp2.2\Spa.deps.json
+D:\Workspace\Proge Software\Vue Testbed\Spa\bin\Debug\netcoreapp2.2\Spa.runtimeconfig.json
+D:\Workspace\Proge Software\Vue Testbed\Spa\bin\Debug\netcoreapp2.2\Spa.runtimeconfig.dev.json
+D:\Workspace\Proge Software\Vue Testbed\Spa\bin\Debug\netcoreapp2.2\Spa.dll
+D:\Workspace\Proge Software\Vue Testbed\Spa\bin\Debug\netcoreapp2.2\Spa.pdb
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.csprojAssemblyReference.cache
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.csproj.CoreCompileInputs.cache
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.RazorAssemblyInfo.cache
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.RazorAssemblyInfo.cs
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.AssemblyInfoInputs.cache
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.AssemblyInfo.cs
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.RazorTargetAssemblyInfo.cache
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.dll
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.pdb
+D:\Workspace\Proge Software\Vue Testbed\Spa\bin\Debug\netcoreapp2.2\Spa.Views.dll
+D:\Workspace\Proge Software\Vue Testbed\Spa\obj\Debug\netcoreapp2.2\Spa.csproj.CopyComplete

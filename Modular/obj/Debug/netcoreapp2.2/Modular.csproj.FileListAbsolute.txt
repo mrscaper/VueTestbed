@@ -1,0 +1,14 @@
+D:\Workspace\Proge Software\Vue Testbed\Modular\bin\Debug\netcoreapp2.2\Modular.deps.json
+D:\Workspace\Proge Software\Vue Testbed\Modular\bin\Debug\netcoreapp2.2\Modular.runtimeconfig.json
+D:\Workspace\Proge Software\Vue Testbed\Modular\bin\Debug\netcoreapp2.2\Modular.runtimeconfig.dev.json
+D:\Workspace\Proge Software\Vue Testbed\Modular\bin\Debug\netcoreapp2.2\Modular.dll
+D:\Workspace\Proge Software\Vue Testbed\Modular\bin\Debug\netcoreapp2.2\Modular.pdb
+D:\Workspace\Proge Software\Vue Testbed\Modular\obj\Debug\netcoreapp2.2\Modular.csproj.CoreCompileInputs.cache
+D:\Workspace\Proge Software\Vue Testbed\Modular\obj\Debug\netcoreapp2.2\Modular.RazorAssemblyInfo.cache
+D:\Workspace\Proge Software\Vue Testbed\Modular\obj\Debug\netcoreapp2.2\Modular.RazorAssemblyInfo.cs
+D:\Workspace\Proge Software\Vue Testbed\Modular\obj\Debug\netcoreapp2.2\Modular.AssemblyInfoInputs.cache
+D:\Workspace\Proge Software\Vue Testbed\Modular\obj\Debug\netcoreapp2.2\Modular.AssemblyInfo.cs
+D:\Workspace\Proge Software\Vue Testbed\Modular\obj\Debug\netcoreapp2.2\Modular.RazorTargetAssemblyInfo.cache
+D:\Workspace\Proge Software\Vue Testbed\Modular\obj\Debug\netcoreapp2.2\Modular.dll
+D:\Workspace\Proge Software\Vue Testbed\Modular\obj\Debug\netcoreapp2.2\Modular.pdb
+D:\Workspace\Proge Software\Vue Testbed\Modular\obj\Debug\netcoreapp2.2\Modular.csprojAssemblyReference.cache

@@ -1,0 +1,33 @@
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\bin\Debug\netcoreapp2.1\Vue Testbed.deps.json
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\bin\Debug\netcoreapp2.1\Vue Testbed.runtimeconfig.json
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\bin\Debug\netcoreapp2.1\Vue Testbed.runtimeconfig.dev.json
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\bin\Debug\netcoreapp2.1\Vue Testbed.dll
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\bin\Debug\netcoreapp2.1\Vue Testbed.pdb
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\bin\Debug\netcoreapp2.1\Vue Testbed.Views.dll
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\bin\Debug\netcoreapp2.1\Vue Testbed.Views.pdb
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.csprojAssemblyReference.cache
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.csproj.CoreCompileInputs.cache
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.RazorAssemblyInfo.cache
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.RazorAssemblyInfo.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.AssemblyInfoInputs.cache
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.AssemblyInfo.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.TagHelpers.input.cache
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.TagHelpers.output.cache
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.RazorCoreGenerate.cache
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.RazorTargetAssemblyInfo.cache
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.RazorTargetAssemblyInfo.cs
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.Views.pdb
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.dll
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.pdb
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Vue Testbed.csproj.CopyComplete
+D:\Workspace\Proge Software\Vue Testbed\Vue Testbed\obj\Debug\netcoreapp2.1\Razor\Pages\VueTest.g.cshtml.cs
